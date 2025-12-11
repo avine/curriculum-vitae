@@ -1,10 +1,11 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, ViewEncapsulation } from '@angular/core';
+import { Intro } from './intro/intro';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [Intro],
   templateUrl: './app.html',
-  styleUrl: './app.scss',
+  styleUrl: './app.css',
+  encapsulation: ViewEncapsulation.None,
 })
 export class App {}

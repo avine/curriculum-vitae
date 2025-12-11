@@ -1,0 +1,30 @@
+@import '@fontsource/nunito/latin-500.css';
+@import '@fontsource/nunito/latin-700.css';
+@import '@fontsource/nunito/latin-800.css';
+
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Nunito', sans-serif;
+}
+
+/*html,
+body {
+  height: 100%;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: large;
+}*/
+
+:root {
+  --primary-color: oklch(60.943% 0.23123 23.433);
+}

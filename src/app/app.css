@@ -1,0 +1,5 @@
+@reference "../styles.css";
+
+app-root {
+  @apply block p-6;
+}
