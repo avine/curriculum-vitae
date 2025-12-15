@@ -1,0 +1,70 @@
+:where(.z-sys-pretty) {
+  h1 {
+    @apply text-4xl font-bold;
+  }
+  h2 {
+    @apply text-primary mb-3 text-2xl font-bold text-pretty;
+  }
+  h3 {
+    @apply mb-3 text-xl font-extrabold;
+  }
+  h4 {
+    @apply mb-3;
+  }
+
+  hr {
+    @apply my-3;
+  }
+
+  p {
+    @apply mb-3;
+  }
+}
+
+:where(.z-sys-pretty) a,
+a:where(.z-sys-pretty) {
+  text-decoration: underline;
+  transition: color 150ms ease;
+
+  &:hover {
+    @apply text-primary;
+  }
+}
+
+:where(.z-sys-pretty) ol,
+:where(.z-sys-pretty) ul,
+ol:where(.z-sys-pretty),
+ul:where(.z-sys-pretty) {
+  @apply mb-3 ml-3;
+
+  ol,
+  ul {
+    @apply mt-2;
+  }
+}
+
+:where(.z-sys-pretty) li + li {
+  @apply mt-2;
+}
+
+:where(.z-sys-pretty) ol,
+ol:where(.z-sys-pretty) {
+  @apply list-decimal pl-4;
+}
+
+:where(.z-sys-pretty) ul,
+ul:where(.z-sys-pretty) {
+  @apply pl-2;
+
+  > li {
+    @apply pl-2;
+
+    &::marker {
+      content: '◦';
+    }
+
+    ul > li::marker {
+      content: '→';
+    }
+  }
+}

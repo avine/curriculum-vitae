@@ -1,3 +1,11 @@
-<header class="m-auto max-w-3xl">
-  <app-intro />
+<header class="border-t-primary border-t-4 p-6">
+  <app-header class="m-auto block max-w-3xl" />
 </header>
+
+<main>
+  @for (data of expData; track $index) {
+    <article class="border-t-2 border-neutral-300 p-6">
+      <app-experience class="m-auto block max-w-3xl" [data]="data" />
+    </article>
+  }
+</main>

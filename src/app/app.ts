@@ -1,11 +1,13 @@
-import { Component, ViewEncapsulation } from '@angular/core';
-import { Intro } from './intro/intro';
+import { Component } from '@angular/core';
+import { Experience } from './experience/experience';
+import { EXP_DATA } from './experience/experience-data';
+import { Header } from './header/header';
 
 @Component({
   selector: 'app-root',
-  imports: [Intro],
+  imports: [Experience, Header],
   templateUrl: './app.html',
-  styleUrl: './app.css',
-  encapsulation: ViewEncapsulation.None,
 })
-export class App {}
+export class App {
+  protected expData = EXP_DATA;
+}
