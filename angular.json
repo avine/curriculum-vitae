@@ -57,6 +57,14 @@
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
+            },
+            "github-pages": {
+              "outputPath": {
+                "base": "docs",
+                "browser": "",
+                "media": "media"
+              },
+              "baseHref": "/curriculum-vitae/"
             }
           },
           "defaultConfiguration": "production"
