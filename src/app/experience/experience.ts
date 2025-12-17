@@ -27,6 +27,6 @@ export class Experience {
 
     const years = Math.floor(months / 12);
 
-    return `${years} ${years ? 'ans' : 'an'} et ${months % 12} mois`;
+    return `${years} ${years >= 2 ? 'ans' : 'an'} et ${months % 12} mois`;
   });
 }

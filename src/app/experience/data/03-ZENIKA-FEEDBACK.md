@@ -12,12 +12,12 @@ Zenika (ESN spécialisée dans la transformation numérique) cherche à renforce
 
 ### Réalisations & Impact
 
-**⭐ Développement full-stack from scratch :** conception et réalisation complète (architecture et développement) d'une application web moderne | **Déployée en production et utilisée par 800+ collaborateurs** | **2000+ feedbacks échangés** par an
+**Développement full-stack from scratch :** conception et réalisation complète (architecture et développement) d'une application web moderne | **Déployée en production et utilisée par 800+ utilisateurs** | **2000+ feedbacks échangés** par an
 
 **Architecture cloud-native :** stack GCP (Google Cloud Platform) avec Firebase | **Auth Google SSO** pour une connexion simplifiée | **Firestore** pour la persistance des données | **Zéro serveur à maintenir**, coûts d'infrastructure optimisés
 
-**Ownership & maintenabilité :** **mainteneur principal actuel** de l'application | Évolutions fonctionnelles continues basées sur les retours utilisateurs | Monitoring, correction de bugs et évolutions techniques
+**Ownership & maintenabilité :** **mainteneur principal actuel** de l'application | Évolutions fonctionnelles continues basées sur les retours utilisateurs | Monitoring, correction de bugs et évolutions techniques | Statistiques d'usage
 
 **Impact RH & culture :** outil devenu **indispensable** au processus d'évaluation annuelle | Adoption organique par **la casi totalité des collaborateurs actifs**
 
-**Stack :** Angular 17, Angular Material, Localize (i18n), NestJS, Firebase (Google Auth, Firestore), GCP
+**Stack :** Angular 17, Angular Material, Localize (i18n), ECharts, NestJS, Firebase (Google Auth, Firestore), GCP

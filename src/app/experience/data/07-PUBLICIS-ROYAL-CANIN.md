@@ -4,7 +4,7 @@ endDate: 2021-01
 startDate: 2020-05
 ---
 
-## Consultant Full-stack - Plateforme CIAM Okta (Customer Identity Management)
+## Architecte Logiciel Full-stack - Plateforme CIAM Okta (Customer Identity Management)
 
 ### Contexte & Enjeux
 
@@ -12,7 +12,7 @@ Royal Canin (groupe Mars), **leader mondial de la nutrition pour animaux de comp
 
 ### Réalisations & Impact
 
-**⭐ Développement from scratch de la plateforme d'identité centralisée :** conception et réalisation complète (architecture, développement, intégration) d'une application permettant aux clients de gérer leur identité unique Royal Canin : inscription, authentification, gestion du profil et des préférences, réinitialisation de mot de passe sécurisée
+**Développement from scratch de la plateforme d'identité centralisée :** conception et réalisation complète (architecture, développement, intégration) d'une application permettant aux clients de gérer leur identité unique Royal Canin : inscription, authentification, gestion du profil et des préférences, réinitialisation de mot de passe sécurisée
 
 **Intégration CIAM Okta :** implémentation complète de l'**authentification Okta** (OAuth 2.0, OpenID Connect) | Gestion des flux d'inscription, login, logout, forgot password
 
