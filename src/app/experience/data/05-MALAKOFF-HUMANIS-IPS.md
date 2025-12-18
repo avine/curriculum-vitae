@@ -4,20 +4,16 @@ endDate: 2022-04
 startDate: 2021-11
 ---
 
-## Développeur Full-stack - Application IPS (Indice de Performance Sociale)
+### Développeur Full-stack – Indice de Performance Sociale
 
-### Contexte & Enjeux
+Malakoff Humanis développe une offre pour accompagner les PME dans l'évaluation et l'amélioration de leur performance sociale (IPS).
 
-Malakoff Humanis développe une **offre SaaS B2B innovante** pour accompagner les PME dans l'évaluation et l'amélioration de leur performance sociale. **Mission : créer un outil de benchmarking sectoriel permettant aux entreprises de se comparer à leurs pairs et identifier des axes d'amélioration RH.**
+#### Réalisations & impact
 
-### Réalisations & Impact
+- Développement full-stack : Front-end Angular + Back-end Express.js + Base de données MongoDB
+- Questionnaire complexes (40+ questions, multi-step), algorithme de scoring, DataViz (charts et radars)
+- Benchmarking sectoriel : 15+ secteurs d'activité, 4 tranches de taille d'entreprise, base de 500+ entreprises anonymisées
 
-**Développement full-stack en équipe agile :** participation active aux développements front-end et back-end au sein d'une **équipe de 3 développeurs** | Ownership de modules critiques (questionnaire, algorithme de scoring, dataviz)
+**Organisation :** feature team de 3 développeurs + méthodologie Scrum
 
-**Questionnaire intelligent & scoring :** implémentation d'un **questionnaire dynamique de 40+ questions** | Développement de l'algorithme de calcul de l'**IPS (score 0-100)** basé sur 5 dimensions RH | Visualisation interactive des résultats via charts et radars
-
-**Benchmarking sectoriel :** système de comparaison avec **15 secteurs d'activité** et **4 tranches de taille d'entreprise** | Base de données de **500+ entreprises** anonymisées pour les benchmarks statistiques
-
-**API REST & persistance :** serveur back-end Express.js | Base MongoDB pour stocker questionnaires, résultats et données de benchmark
-
-**Stack :** Angular 13, Express.js, MongoDB (Mongoose), Jest
+**Stack:** Angular 13, Express.js, MongoDB (Mongoose), API Rest, Jest

@@ -4,18 +4,18 @@ endDate: 2017-12
 startDate: 2017-09
 ---
 
-## Consultant Front-end - Remote UI Imprimantes Industrielles
+### Développeur Front-end – UI imprimantes industrielles
 
-### Contexte & Enjeux
+Canon Production Printing, leader mondial de l'impression numérique industrielle, engage une transformation digitale : développer une interface web (UI) permettant la configuration et le pilotage à distance des imprimantes professionnelles.
 
-Canon Production Printing, **leader mondial de l'impression numérique industrielle** (grand format), engage une **transformation digitale de l'UX opérateur**. **Innovation stratégique :** développer une **interface web universelle** permettant la configuration et le pilotage à distance des imprimantes professionnelles depuis PC, tablette ou mobile, remplaçant les interfaces physiques propriétaires.
+#### Réalisations & impact
 
-### Réalisations
+- Développement de composants pour gérer la configuration et l'état
+- API Rest (création de jobs, modification de paramètres, ...)
+- WebSocket (statut imprimante, progression des jobs, alertes, ...)
 
-**Architecture Angular / NgRx :** développement de composants au sein d'une **équipe de 4 développeurs SCRUM** | Implémentation du pattern **Redux (NgRx)** pour gérer l'état complexe de configuration d'imprimantes (paramètres, jobs d'impression, statuts, alertes)
+**Evénement :** mission interrompue suite à un changement d'ESN (Alten → Xebia)
 
-**Connectivité temps réel bidirectionnelle :** intégration de **services REST** pour les opérations CRUD (création de jobs, modification de paramètres, consultation d'historiques) | **WebSocket** pour la communication temps réel (statut imprimante, progression des jobs, alertes, preview live)
+**Organisation :** feature team de 4 développeurs + méthodologie Scrum
 
-**Evénement :** Mission interrompue suite à un changement d'ESN (Alten → Xebia)
-
-**Stack :** Angular 4, NgRx (Redux), WebSocket, REST API
+**Stack:** Angular 4, NgRx, API Rest, WebSocket

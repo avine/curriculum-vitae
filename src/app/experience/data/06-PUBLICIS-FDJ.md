@@ -4,20 +4,18 @@ endDate: 2021-09
 startDate: 2021-02
 ---
 
-## Lead Technique Full-stack - Migration Monorepo & SSR "Parions Sport en Ligne"
+### Lead technique Full-stack – Migration Monorepo & SSR "Parions Sport"
 
-### Contexte & Enjeux
+La FDJ (Française des Jeux), pour son application "Parions sport en ligne", fait face à une architecture legacy complexe : 3 applications distinctes (coquille PHP + 2 applications Angular) réparties dans 3 dépôts Git, générant des difficultés de maintenance et de déploiement.
 
-La FDJ (Française des Jeux), pour son application "Parions sport en ligne", fait face à une **architecture legacy complexe et coûteuse** : 3 applications distinctes (coquille PHP + 2 apps Angular) réparties dans 3 dépôts Git, générant duplication de code, difficultés de maintenance et lenteur de déploiement. **Mission stratégique : migration vers une architecture moderne unifiée avec Server-Side Rendering.**
+#### Réalisations & impact
 
-### Réalisations & Impact
+- Lead technique en équipe de 3 : pilotage conception et développement
+- Migration vers Monorepo Nx : consolidation des 3 applications (réécriture coquille PHP en Angular)
+- Implémentation SSR (Server-Side Rendering)
 
-**Lead technique d'une refonte architecturale majeure :** pilotage de l'architecture et du développement au sein d'une **équipe de 3 développeurs** | Coordination avec les équipes produit
+**Evénement :** mission interrompue suite à un changement d'ESN (Xebia → Zenika)
 
-**Migration vers monorepo Nx :** consolidation des **3 applications dans un workspace Nx unifié** | Réécriture de la coquille PHP en Angular moderne
+**Organisation :** équipe 3 développeurs + méthodologie Kanban
 
-**Implémentation SSR (Server-Side Rendering) :** mise en place d'**Angular Universal** avec backend Express.js
-
-**Evénement :** Mission interrompue suite à un changement d'ESN (Xebia → Zenika)
-
-**Stack :** Angular 12, Express.js (SSR), Nx (monorepo), Jest
+**Stack:** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
