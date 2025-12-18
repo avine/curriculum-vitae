@@ -1,6 +1,6 @@
 ---
 business: Coface
-endDate: 2024-07
+endDate: 2024-06
 startDate: 2023-11
 ---
 
@@ -8,14 +8,14 @@ startDate: 2023-11
 
 ### Contexte & Enjeux
 
-Coface, **leader mondial de l'assurance-crédit**, engage une transformation digitale majeure de son SI legacy pour accompagner sa croissance internationale et moderniser l'expérience utilisateur. **Mission : concevoir from scratch le nouveau socle technique Front-end pour l'ensemble de ses applications.**
+Coface, leader mondial de l'assurance-crédit, engage une transformation digitale majeure de son SI legacy pour accompagner sa croissance internationale et moderniser l'expérience utilisateur. **Mission :** Concevoir from scratch le nouveau socle technique Front-end pour l'ensemble des applications.
 
 ### Réalisations & Impact
 
-**Architecture scalable & réutilisable :** conception et développement d'une **librairie Angular modulaire** dans un Monorepo Nx, servant de fondation à **l'ensemble des applications métier** | Intégration de la librarie dans une application pilote
+**Architecture scalable & réutilisable :** conception et développement d'une librairie Angular modulaire dans un Monorepo Nx, servant de fondation à l'ensemble des applications métier | Intégration de la librarie dans une application pilote.
 
-**State management & internationalisation :** implémentation de **NgRx** pour une gestion d'état prévisible et performante dans des applications complexes | **Ngx-Translate** pour supporter **20+ langues**
+**State management & internationalisation :** implémentation de NgRx pour une gestion d'état prévisible et performante dans des applications complexes | Ngx-Translate pour supporter 20+ langues.
 
-**Design system & Composants UI :** Intégration de **PrimeNG** aligné avec la charte graphique Coface | Layout et composants custom | Documentation interactive pour les équipes de développement
+**Design system & Composants UI :** Intégration de PrimeNG aligné avec la charte graphique Coface | Layout et composants custom | Documentation interactive pour les équipes de développement.
 
-**Stack :** Angular 16-17, NgRx (State Management), Ngx-Translate (i18n), PrimeNG, Nx (Monorepo)
+**Stack :** Angular 16-17, NgRx (State Management), Ngx-Translate (i18n), PrimeNG, Nx (Monorepo).
