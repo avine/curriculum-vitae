@@ -1,14 +1,11 @@
 ---
+position: Développeur Full-stack – Indice de Performance Sociale
 business: Malakoff Humanis
 endDate: 2022-04
 startDate: 2021-11
 ---
 
-### Développeur Full-stack – Indice de Performance Sociale
-
-Malakoff Humanis développe une offre pour accompagner les PME dans l'évaluation et l'amélioration de leur performance sociale (IPS).
-
-#### Réalisations & impact
+Développe une offre pour accompagner les PME dans l'évaluation et l'amélioration de leur performance sociale (IPS).
 
 - Développement full-stack : Front-end Angular + Back-end Express.js + Base de données MongoDB
 - Questionnaire complexes (40+ questions, multi-step), algorithme de scoring, DataViz (charts et radars)

@@ -1,14 +1,11 @@
 ---
+position: Développeur Front-end – Espace Client
 business: Axa
 endDate: 2017-08
 startDate: 2016-11
 ---
 
-### Développeur Front-end – Espace Client Web
-
-Axa, groupe d'assurance international, entreprend la modernisation de son espace client web pour améliorer l'expérience utilisateur et la performance technique.
-
-#### Réalisations & impact
+Groupe d'assurance international, entreprend la modernisation de son espace client web pour améliorer l'expérience utilisateur et la performance technique.
 
 - Gestion complète du profil utilisateur
 - Maintenance corrective et évolutive

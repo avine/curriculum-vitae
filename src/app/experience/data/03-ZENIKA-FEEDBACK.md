@@ -1,14 +1,11 @@
 ---
+position: Architecte logiciel Full-stack – Plateforme de feedback 360°
 business: Zenika
 endDate: 2023-10
 startDate: 2023-07
 ---
 
-### Architecte logiciel Full-stack – Plateforme de feedback 360°
-
-Zenika (ESN spécialisée dans la transformation numérique) cherche à renforcer sa culture du feedback continu et la cohésion entre ses équipes distribuées.
-
-#### Réalisations & impact
+ESN spécialisée dans la transformation numérique, cherche à renforcer sa culture du feedback continu et la cohésion entre ses équipes distribuées.
 
 - Conception et développement from scratch : Front-end Angular + Back-end NestJS + Base de données Firestore + Firebase Auth (SSO Google)
 - Documentation technique avec Docusaurus

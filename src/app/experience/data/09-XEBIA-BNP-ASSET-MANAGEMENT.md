@@ -1,14 +1,11 @@
 ---
+position: Lead technique Front-end – Plateforme de Trading
 business: BNP Paribas
 endDate: 2019-06
 startDate: 2018-01
 ---
 
-### Lead technique Front-end – Plateforme de Trading
-
-BNP Paribas Asset Management engage la digitalisation du marché obligataire (MiFID II), historiquement traité de gré à gré et peu transparent.
-
-#### Réalisations & impact
+L'entité Asset Management engage la digitalisation du marché obligataire (MiFID II), historiquement traité de gré à gré et peu transparent.
 
 - Conception et développement, revues de code, mentoring
 - Dashboards temps réel d'analyse de marché
