@@ -35,6 +35,12 @@ importers:
       '@fontsource/nunito':
         specifier: ^5.2.7
         version: 5.2.7
+      '@material-symbols/font-500':
+        specifier: ^0.40.2
+        version: 0.40.2
+      '@material-symbols/font-600':
+        specifier: ^0.40.2
+        version: 0.40.2
       '@tailwindcss/postcss':
         specifier: ^4.1.17
         version: 4.1.17
@@ -1085,6 +1091,12 @@ packages:
     resolution: {integrity: sha512-1JdBkcO0Vrua4LUgr4jAe4FUyluwCeq/pDkBrlaVjX3/BBWP1TzVjCL+TibWNQtPAL1BITXPAhlK5Ru4FBd/hg==}
     cpu: [x64]
     os: [win32]
+
+  '@material-symbols/font-500@0.40.2':
+    resolution: {integrity: sha512-079EST1kL97rGd7VM70qghfI7j1uqG3BbRiYmHu8eKh35iTPA9bRxLsR0jU0xZQLB9MfAoLKvkVa7oFhFvj8eA==}
+
+  '@material-symbols/font-600@0.40.2':
+    resolution: {integrity: sha512-CgQ4W8zjO+d5VpeFfkce4v9Y2ippi9rTxwOAW7ROad/PAkHHj0DfUGTLmygM3j02w0x6tmmA2iOmreVoemeutQ==}
 
   '@modelcontextprotocol/sdk@1.24.0':
     resolution: {integrity: sha512-D8h5KXY2vHFW8zTuxn2vuZGN0HGrQ5No6LkHwlEA9trVgNdPL3TF1dSqKA7Dny6BbBYKSW/rOBDXdC8KJAjUCg==}
@@ -4664,6 +4676,10 @@ snapshots:
 
   '@lmdb/lmdb-win32-x64@3.4.3':
     optional: true
+
+  '@material-symbols/font-500@0.40.2': {}
+
+  '@material-symbols/font-600@0.40.2': {}
 
   '@modelcontextprotocol/sdk@1.24.0(zod@4.1.13)':
     dependencies:

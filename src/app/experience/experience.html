@@ -1,9 +1,9 @@
 <div class="gap-6 sm:flex">
-  <p class="shrink-0 grow-0 basis-34 text-left sm:mt-1 sm:text-right">
-    <strong>{{ output().business }}</strong>
+  <p class="shrink-0 grow-0 basis-40 text-left sm:mt-1 sm:text-right">
+    <strong>{{ output().company }}</strong>
 
     <br class="hidden sm:inline" />
-    <span class="inline sm:hidden"> — </span>
+    <span class="inline sm:hidden"> – </span>
 
     <span class="text-sm">{{ output().startDate }} / {{ output().endDate }}</span>
 
@@ -12,5 +12,17 @@
     <span class="text-neutral-500 italic"> ({{ duration() }})</span>
   </p>
 
-  <div [innerHTML]="output().content" class="z-sys-pretty"></div>
+  <div class="z-sys-pretty">
+    <div [innerHTML]="output().content" class="z-sys-pretty"></div>
+
+    @if (output().stack; as stack) {
+      <h3>Stack</h3>
+
+      <div class="flex flex-wrap gap-2">
+        @for (item of stack; track $index) {
+          <span class="rounded border border-neutral-300 px-1">{{ item }}</span>
+        }
+      </div>
+    }
+  </div>
 </div>

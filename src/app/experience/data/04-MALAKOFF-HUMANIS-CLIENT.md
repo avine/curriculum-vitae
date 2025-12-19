@@ -1,8 +1,8 @@
 ---
 position: Développeur Front-end & Référent technique – Espace client
-business: Malakoff Humanis
-endDate: 2023-06
+company: Malakoff Humanis
 startDate: 2022-05
+endDate: 2023-06
 ---
 
 Acteur majeur de la protection sociale en France, s'appuie sur son Espace client web comme canal digital stratégique pour ses particuliers.

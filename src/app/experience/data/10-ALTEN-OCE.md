@@ -1,8 +1,8 @@
 ---
 position: Développeur Front-end – UI imprimantes industrielles
-business: Canon Production Printing
-endDate: 2017-12
+company: Canon Production Printing
 startDate: 2017-09
+endDate: 2017-12
 ---
 
 Leader mondial de l'impression numérique industrielle, engage une transformation digitale : développer une interface web (UI) permettant la configuration et le pilotage à distance des imprimantes professionnelles.

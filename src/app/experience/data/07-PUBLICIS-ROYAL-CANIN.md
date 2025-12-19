@@ -1,8 +1,8 @@
 ---
 position: Architecte logiciel Full-stack – Plateforme CIAM Okta
-business: Royal Canin
-endDate: 2021-01
+company: Royal Canin
 startDate: 2020-05
+endDate: 2021-01
 ---
 
 Leader mondial de la nutrition pour animaux de compagnie, opère un écosystème de 12+ applications clients (e-commerce, clubs de fidélité, support vétérinaire).

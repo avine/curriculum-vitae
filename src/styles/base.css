@@ -5,3 +5,66 @@ html {
   /*font-size: large;*/
   font-weight: 500;
 }
+
+h1 {
+  @apply text-4xl font-bold;
+}
+
+h2 {
+  @apply mb-6 border-b border-neutral-400 pb-1 text-3xl font-bold;
+}
+
+h3 {
+  @apply text-primary text-2xl font-bold text-pretty;
+}
+
+h4 {
+  @apply mb-3 text-xl font-extrabold;
+}
+
+p {
+  @apply mb-3;
+}
+
+a {
+  text-decoration: underline;
+  transition: color 150ms ease;
+
+  &:hover {
+    @apply text-primary;
+  }
+}
+
+ol,
+ul {
+  @apply mb-3 ml-3;
+
+  ol,
+  ul {
+    @apply mt-2;
+  }
+}
+
+li + li {
+  @apply mt-2;
+}
+
+ol {
+  @apply list-decimal pl-4;
+}
+
+ul {
+  @apply pl-2;
+
+  > li {
+    @apply pl-2;
+
+    &::marker {
+      content: '◦';
+    }
+
+    ul > li::marker {
+      content: '→';
+    }
+  }
+}

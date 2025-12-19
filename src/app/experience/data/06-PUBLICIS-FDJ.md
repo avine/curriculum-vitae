@@ -1,8 +1,8 @@
 ---
 position: Lead technique Full-stack – Migration Monorepo & SSR
-business: Française Des Jeux
-endDate: 2021-09
+company: Française Des Jeux
 startDate: 2021-02
+endDate: 2021-09
 ---
 
 "Parions sport en ligne", fait face à une architecture legacy complexe : 3 applications distinctes (coquille PHP + 2 applications Angular) réparties dans 3 dépôts Git, générant des difficultés de maintenance et de déploiement.

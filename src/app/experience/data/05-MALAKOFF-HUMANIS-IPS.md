@@ -1,8 +1,8 @@
 ---
 position: Développeur Full-stack – Indice de Performance Sociale
-business: Malakoff Humanis
-endDate: 2022-04
+company: Malakoff Humanis
 startDate: 2021-11
+endDate: 2022-04
 ---
 
 Développe une offre pour accompagner les PME dans l'évaluation et l'amélioration de leur performance sociale (IPS).

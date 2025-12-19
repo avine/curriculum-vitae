@@ -1,7 +1,8 @@
 export interface ExperienceData {
-  business: string;
+  position: string;
+  company: string;
   startDate: string;
   endDate: string;
-  //title: string;
+  stack: string[];
   content: string;
 }

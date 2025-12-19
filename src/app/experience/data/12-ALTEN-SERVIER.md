@@ -1,8 +1,8 @@
 ---
 position: Développeur Full-stack – Outil BI & CRM Pharmaceutique
-business: Servier
-endDate: 2016-09
+company: Servier
 startDate: 2013-07
+endDate: 2016-09
 ---
 
 Groupe pharmaceutique français, engage la transformation digitale de ses outils métier stratégiques : BI (Business Intelligence) et CRM pour les managers et les visiteurs médicaux.

@@ -1,8 +1,8 @@
 ---
 position: Architecte logiciel Front-end – Refonte Design System
-business: BNP Paribas
-endDate: 2025-11
+company: BNP Paribas
 startDate: 2024-07
+endDate: 2025-11
 ---
 
 Le Design System, utilisé par 20+ applications, souffrait d'une dette technique critique (architecture monolithique, coûts de maintenance élevés, frustration des développeurs).

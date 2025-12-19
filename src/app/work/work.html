@@ -1,0 +1,11 @@
+<h3>{{ output().position }}</h3>
+
+<p class="text-neutral-600">
+  <strong class="text-lg">{{ output().company }} –</strong>
+
+  {{ output().startDate }} / {{ output().endDate }}
+
+  <span class="hidden text-sm sm:inline">({{ duration() }})</span>
+</p>
+
+<div [innerHTML]="output().content"></div>

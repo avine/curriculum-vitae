@@ -13,12 +13,14 @@ export const parseExperience = (input: string): ExperienceData => {
         object[key] = value.trim();
         return object;
       },
-      {} as Record<string, string>,
+      {} as Record<string, string | string[]>,
     );
 
   //const titleMatch = content.trim().match(/^## ([^\n]+)/);
   //output['title'] = titleMatch?.[1] ?? '';
   //output['content'] = marked.parse(content.replace(titleMatch?.[0] ?? '', ''), { async: false });
+
+  output['stack'] = (output['stack'] as string)?.split(/,\s*/);
 
   output['content'] = marked.parse(content, { async: false });
 

@@ -1,8 +1,8 @@
 ---
 position: Architecte logiciel Front-end – Refonte SI Assurance
-business: Coface
-endDate: 2024-06
+company: Coface
 startDate: 2023-11
+endDate: 2024-06
 ---
 
 Leader mondial de l'assurance-crédit, engage une transformation digitale majeure de son SI legacy pour accompagner sa croissance internationale et moderniser l'expérience utilisateur.

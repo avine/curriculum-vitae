@@ -1,8 +1,8 @@
 ---
 position: Développeur Full-stack – Refonte Site Vitrine & Espace Client
-business: LCL
-endDate: 2020-04
+company: LCL
 startDate: 2019-06
+endDate: 2020-04
 ---
 
 Engage une refonte digitale complète de sa présence web pour moderniser l'expérience utilisateur et améliorer la conversion.
