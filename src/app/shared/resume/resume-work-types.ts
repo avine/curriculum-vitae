@@ -1,8 +1,7 @@
-export interface ExperienceData {
+export interface ResumeWork {
   position: string;
   company: string;
   startDate: string;
   endDate: string;
-  stack: string[];
   content: string;
 }

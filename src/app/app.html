@@ -9,10 +9,10 @@
       Expérience
     </h2>
 
-    @for (data of expData; track $index) {
+    @for (markdown of workMarkdowns; track $index) {
       <app-work
-        [data]="data"
-        class="z-sys-pretty mx-auto my-6 block max-w-3xl pb-3"
+        [work]="markdown | resumeWork"
+        class="mx-auto my-6 block max-w-3xl pb-3"
         [class.border-b]="!$last"
         [class.border-neutral-300]="!$last"
         role="article"
@@ -26,7 +26,7 @@
       Formation & langues
     </h2>
 
-    <ul class="z-sys-pretty">
+    <ul class="">
       <li>
         DEA, Physique appliquée, Mention B – INPG (Institut National Polytechnique de Grenoble)
       </li>

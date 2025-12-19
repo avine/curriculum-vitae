@@ -1,11 +1,13 @@
-<h3>{{ output().position }}</h3>
+@let w = work();
+
+<h3>{{ w.position }}</h3>
 
 <p class="text-neutral-600">
-  <strong class="text-lg">{{ output().company }} –</strong>
+  <strong class="text-lg">{{ w.company }} –</strong>
 
-  {{ output().startDate }} / {{ output().endDate }}
+  {{ w.startDate | resumeWorkPeriod: w.endDate }}
 
-  <span class="hidden text-sm sm:inline">({{ duration() }})</span>
+  <span class="hidden text-sm sm:inline">({{ [w.startDate, w.endDate] | resumeDuration }})</span>
 </p>
 
-<div [innerHTML]="output().content"></div>
+<div [innerHTML]="w.content"></div>
