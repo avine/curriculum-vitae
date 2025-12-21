@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 import { LogoZenika } from '../logo-zenika/logo-zenika';
 
 @Component({
-  selector: 'app-header',
+  selector: 'app-basics',
   imports: [LogoZenika],
-  templateUrl: './header.html',
+  templateUrl: './basics.html',
 })
-export class Header {}
+export class Basics {}

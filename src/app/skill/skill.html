@@ -1,0 +1,22 @@
+@let s = skill();
+
+<strong class="text-primary block">{{ s.name }}</strong>
+
+@if (s.level) {
+  <div class="ms-3 flex items-center gap-1">
+    @for (_ of dots; track $index) {
+      <span
+        class="h-1.5 w-1.5 rounded-full border-neutral-400"
+        [class.border]="score() <= $index"
+        [class.bg-neutral-600]="score() > $index"
+      ></span>
+    }
+    <span class="ms-1 text-xs">{{ levelMap[s.level] }}</span>
+  </div>
+}
+
+<div class="ms-3 mt-2 flex flex-wrap gap-2">
+  @for (keyword of s.keywords; track $index) {
+    <span class="rounded border border-neutral-300 bg-neutral-50 px-1 text-sm">{{ keyword }}</span>
+  }
+</div>

@@ -1,8 +1,24 @@
 <header class="border-t-primary border-t-5">
-  <app-header />
+  <app-basics />
 </header>
 
 <main class="m-auto max-w-3xl p-6">
+  <section>
+    <h2>
+      <span class="material-symbols-outlined">done_all</span>
+      Compétences
+    </h2>
+
+    <div
+      class="mb-12 gap-12 sm:columns-2 md:columns-3"
+      style="column-rule: 1px solid var(--color-neutral-200)"
+    >
+      @for (skill of skills; track $index) {
+        <app-skill class="mb-4 block break-inside-avoid" role="article" [skill]="skill" />
+      }
+    </div>
+  </section>
+
   <section>
     <h2>
       <span class="material-symbols-outlined">done_all</span>
