@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build:github-pages": "ng build -c production,github-pages",
-    "postbuild:github-pages": "cp docs/index.html docs/404.html",
+    "postbuild:github-pages": "cp docs/index.html docs/404.html & touch docs/CNAME & echo \"avine.dev\" > docs/CNAME",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:curriculum-vitae": "node dist/curriculum-vitae/server/server.mjs",

@@ -63,8 +63,7 @@
                 "base": "docs",
                 "browser": "",
                 "media": "media"
-              },
-              "baseHref": "/curriculum-vitae/"
+              }
             }
           },
           "defaultConfiguration": "production"
