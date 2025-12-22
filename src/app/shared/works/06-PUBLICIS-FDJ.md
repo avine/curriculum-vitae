@@ -1,6 +1,6 @@
 ---
 position: Lead technique Full-stack – Migration Monorepo & SSR
-company: Française Des Jeux
+company: FDJ
 startDate: 2021-02
 endDate: 2021-09
 ---
@@ -11,8 +11,8 @@ endDate: 2021-09
 - Migration vers Monorepo Nx : consolidation des 3 applications (réécriture coquille PHP en Angular)
 - Implémentation SSR (Server-Side Rendering)
 
-**Organisation :** équipe 3 développeurs + méthodologie Kanban
-
-**Evénement :** mission interrompue suite à un changement d'ESN (Xebia → Zenika)
-
 **Stack:** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
+
+**Agilité :** 3 développeurs + Kanban
+
+**Mobilité :** mission suivie d'un changement d'ESN (Xebia → Zenika)

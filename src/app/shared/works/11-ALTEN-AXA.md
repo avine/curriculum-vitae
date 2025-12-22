@@ -13,6 +13,6 @@ Groupe d'assurance international, entreprend la modernisation de son espace clie
 - Développement de maquettes HTML/CSS pour la refonte du design responsive
 - Pratiques agiles (pair-programming, TDD, code review)
 
-**Organisation :** feature team 3 développeurs + méthodologie Kanban
+**Agilité :** 3 développeurs + Kanban
 
 **Stack:** JQuery, JavaScript, HTML5, CSS3, Jasmine

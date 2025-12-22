@@ -10,6 +10,8 @@ import work_09 from './09-XEBIA-BNP-ASSET-MANAGEMENT.md' with { loader: 'text' }
 import work_10 from './10-ALTEN-OCE.md' with { loader: 'text' };
 import work_11 from './11-ALTEN-AXA.md' with { loader: 'text' };
 import work_12 from './12-ALTEN-SERVIER.md' with { loader: 'text' };
+import work_13 from './13-BOUYGUES-TELECOM.md' with { loader: 'text' };
+//import work_14 from './14-FSJU.md' with { loader: 'text' };
 
 export const WORK_MARKDOWNS = [
   work_01,
@@ -24,4 +26,6 @@ export const WORK_MARKDOWNS = [
   work_10,
   work_11,
   work_12,
+  work_13,
+  //work_14,
 ];

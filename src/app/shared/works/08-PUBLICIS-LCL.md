@@ -14,6 +14,6 @@ Engage une refonte digitale complète de sa présence web pour moderniser l'exp�
 - **Espace client**
   - Mire de connexion Espace Client
 
-**Organisation :** feature team de 6 développeurs + méthodologie Scrum
-
 **Stack:** Angular 8, Leaflet, NestJS, Jest, Prismic
+
+**Agilité :** 6 développeurs + Scrum

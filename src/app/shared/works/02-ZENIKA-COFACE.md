@@ -5,11 +5,10 @@ startDate: 2023-11
 endDate: 2024-06
 ---
 
-Leader mondial de l'assurance-crédit, engage une transformation digitale majeure de son SI legacy pour accompagner sa croissance internationale et moderniser l'expérience utilisateur.
+Leader mondial de l'assurance-crédit, engage une transformation digitale majeure de son SI pour accompagner sa croissance et moderniser l'expérience utilisateur.
 
-- Conception et développement from scratch : librairie Angular (Design System) + starter kit dans Monorepo Nx (pour les applications métier)
-- Application de démo interactive de la librarie + documentation technique
-- Configuration et usage de PrimeNG aligné avec la charte graphique
-- Intégration dans une application pilote + Transfert de connaissance
+- Conception et développement from scratch : librairie Angular (pour le Design System) + application de démo interactive + starter kit dans Monorepo Nx (pour les applications métier)
+- Intégration dans une application pilote
+- Formation développeur + documentation technique
 
 **Stack:** Angular 16-17, NgRx, Ngx-Translate, PrimeNG, Nx

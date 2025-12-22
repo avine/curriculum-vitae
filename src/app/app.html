@@ -2,27 +2,10 @@
   <app-basics class="mt-12 block" />
 </header>
 
-<main class="m-auto max-w-3xl px-6">
+<main class="m-auto max-w-4xl px-6">
   <section class="mt-12">
     <h2>
-      <span class="material-symbols-outlined">done_all</span>
-      Expérience
-    </h2>
-
-    @for (markdown of workMarkdowns; track $index) {
-      <app-work
-        [work]="markdown | resumeWork"
-        class="mx-auto block max-w-3xl break-inside-avoid pt-6 pb-3"
-        [class.border-b]="!$last"
-        [class.border-neutral-300]="!$last"
-        role="article"
-      />
-    }
-  </section>
-
-  <section class="mt-12">
-    <h2>
-      <span class="material-symbols-outlined">done_all</span>
+      <span class="material-symbols-outlined">workspace_premium</span>
       Compétences
     </h2>
 
@@ -38,6 +21,39 @@
 
   <section class="mt-12">
     <h2>
+      <span class="material-symbols-outlined">business_center</span>
+      Entreprises
+    </h2>
+
+    <div
+      class="mt-6 gap-12 sm:columns-2 md:columns-3"
+      style="column-rule: 1px solid var(--color-neutral-200)"
+    >
+      @for (company of companies; track $index) {
+        <strong class="mb-4 block" role="article">{{ company }}</strong>
+      }
+    </div>
+  </section>
+
+  <section class="mt-12 break-before-page">
+    <h2>
+      <span class="material-symbols-outlined">beenhere</span>
+      Expérience
+    </h2>
+
+    @for (work of works; track $index) {
+      <app-work
+        [work]="work"
+        class="mx-auto block max-w-4xl break-inside-avoid pt-6 pb-3"
+        [class.border-b]="!$last"
+        [class.border-neutral-300]="!$last"
+        role="article"
+      />
+    }
+  </section>
+
+  <section class="mt-12">
+    <h2>
       <span class="material-symbols-outlined">License</span>
       Formation & langues
     </h2>
@@ -49,4 +65,6 @@
       <li>Français et Anglais</li>
     </ul>
   </section>
+
+  <footer class="mt-12 mb-3 text-center"><app-logo-zenika>Zenika</app-logo-zenika></footer>
 </main>

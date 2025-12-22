@@ -11,8 +11,8 @@ Leader mondial de l'impression numérique industrielle, engage une transformatio
 - API Rest (création de jobs, modification de paramètres, ...)
 - WebSocket (statut imprimante, progression des jobs, alertes, ...)
 
-**Organisation :** feature team de 4 développeurs + méthodologie Scrum
-
-**Evénement :** mission interrompue suite à un changement d'ESN (Alten → Xebia)
-
 **Stack:** Angular 4, NgRx, API Rest, WebSocket
+
+**Agilité :** 4 développeurs + Scrum
+
+**Mobilité :** mission suivie d'un changement d'ESN (Alten → Xebia)

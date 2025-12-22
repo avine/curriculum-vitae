@@ -9,7 +9,7 @@ export class ResumeDurationPipe implements PipeTransform {
 
     const days = (new Date(endDate).getTime() - new Date(startDate).getTime()) / oneDayMs;
 
-    const months = Math.round(days / 30) + 1;
+    const months = Math.floor(days / 30) + 1;
 
     if (months <= 12) {
       return `${months} mois`;

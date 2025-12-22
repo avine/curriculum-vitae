@@ -11,6 +11,6 @@ L'entité Asset Management engage la digitalisation du marché obligataire (MiFI
 - Dashboards temps réel d'analyse de marché
 - Animation Katas techniques et BBL sur les bonnes pratiques Angular/NgRx
 
-**Organisation :** équipe 4 développeurs + méthodologie Kanban
-
 **Stack:** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
+
+**Agilité :** 4 développeurs + Kanban

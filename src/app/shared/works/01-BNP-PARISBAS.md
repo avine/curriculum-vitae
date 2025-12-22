@@ -7,11 +7,10 @@ endDate: 2025-11
 
 Le Design System, utilisé par 20+ applications, souffrait d'une dette technique critique (architecture monolithique, coûts de maintenance élevés, frustration des développeurs).
 
-- Conception et développement from scratch : librairie Angular + starter kit
-- Application de démo interactive de la librarie + documentation technique
-- Implémentation de 25+ composants conformes UX/UI (Layout, Menus, Card, Data-grid, Prompt, Auth, ...)
+- Conception et développement from scratch : librairie Angular + application de démo interactive + starter kit
+- Implémentation de 25+ composants conformes UI/UX (Layout, Menus, Card, Data-grid, Prompt, ...)
 - Conformité accessibilité RGAA + intégration Axe-Core (feedback immédiat)
-- Migration de 2 applications pilotes + formation de 5+ développeurs et Tech Leads
+- Migration de 2 applications pilotes + formation de 2+ Tech Leads + documentation technique
 - Amélioration productivité développeurs + réduction du time-to-market des fonctionnalités métier
 
 **Stack:** Angular 18-20, Angular Material, Localize (i18n), Axe-Core (a11y), Jest
