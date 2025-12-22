@@ -2,7 +2,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -webkit-tap-highlight-color: transparent;
 
-  /*font-size: large;*/
+  /*font-size: smaller;*/
   font-weight: 500;
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  @apply mb-6 border-b border-neutral-400 pb-1 text-3xl font-bold;
+  @apply border-b border-neutral-400 pb-1 text-3xl font-bold;
 }
 
 h3 {

@@ -1,16 +1,16 @@
 <header class="border-t-primary border-t-5">
-  <app-basics />
+  <app-basics class="mt-12 block" />
 </header>
 
-<main class="m-auto max-w-3xl p-6">
-  <section>
+<main class="m-auto max-w-3xl px-6">
+  <section class="mt-12">
     <h2>
       <span class="material-symbols-outlined">done_all</span>
       Compétences
     </h2>
 
     <div
-      class="mb-12 gap-12 sm:columns-2 md:columns-3"
+      class="mt-6 gap-12 sm:columns-2 md:columns-3"
       style="column-rule: 1px solid var(--color-neutral-200)"
     >
       @for (skill of skills; track $index) {
@@ -19,7 +19,7 @@
     </div>
   </section>
 
-  <section>
+  <section class="mt-12 break-before-page">
     <h2>
       <span class="material-symbols-outlined">done_all</span>
       Expérience
@@ -28,7 +28,7 @@
     @for (markdown of workMarkdowns; track $index) {
       <app-work
         [work]="markdown | resumeWork"
-        class="mx-auto my-6 block max-w-3xl pb-3"
+        class="mx-auto block max-w-3xl break-inside-avoid pt-6 pb-3"
         [class.border-b]="!$last"
         [class.border-neutral-300]="!$last"
         role="article"
@@ -36,13 +36,13 @@
     }
   </section>
 
-  <section>
+  <section class="mt-12">
     <h2>
       <span class="material-symbols-outlined">License</span>
       Formation & langues
     </h2>
 
-    <ul class="">
+    <ul class="mt-6">
       <li>
         DEA, Physique appliquée, Mention B – INPG (Institut National Polytechnique de Grenoble)
       </li>
