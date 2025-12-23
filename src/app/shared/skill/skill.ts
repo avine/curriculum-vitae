@@ -1,6 +1,6 @@
 import { Component, computed, input } from '@angular/core';
-import { ResumeSkill } from '../shared/resume/resume-skill-types';
-import { LEVEL_LABEL_MAP, LEVEL_SCORE_MAP } from '../shared/resume/resume-skill-utils';
+import { LEVEL_LABEL_MAP, LEVEL_SCORE_MAP } from './skill-constants';
+import { ResumeSkill } from './skill-types';
 
 @Component({
   selector: 'app-skill',
@@ -9,12 +9,12 @@ import { LEVEL_LABEL_MAP, LEVEL_SCORE_MAP } from '../shared/resume/resume-skill-
 export class Skill {
   readonly skill = input.required<ResumeSkill>();
 
-  protected levelMap = LEVEL_LABEL_MAP;
-
   protected dots = Array(5).fill('');
 
   protected score = computed(() => {
     const level = this.skill().level;
     return level ? LEVEL_SCORE_MAP[level] : 0;
   });
+
+  protected levelLabelMap = LEVEL_LABEL_MAP;
 }

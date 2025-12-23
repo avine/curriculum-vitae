@@ -1,9 +1,9 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
-  name: 'resumeWorkPeriod',
+  name: 'period',
 })
-export class ResumeWorkPeriodPipe implements PipeTransform {
+export class PeriodPipe implements PipeTransform {
   transform(startDate: string, endDate?: string): string {
     const [startYear, startMonth] = startDate.split('-');
 

@@ -1,4 +1,4 @@
-import { ResumeSkill } from '../resume/resume-skill-types';
+import { ResumeSkill } from '../shared/skill/skill-types';
 
 export const SKILLS: ResumeSkill[] = [
   {

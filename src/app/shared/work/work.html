@@ -5,9 +5,9 @@
 <p class="text-neutral-500">
   <strong class="text-lg">{{ w.company }} –</strong>
 
-  {{ w.startDate | resumeWorkPeriod: w.endDate }}
+  {{ w.startDate | period: w.endDate }}
 
-  <span class="hidden text-sm sm:inline">({{ [w.startDate, w.endDate] | resumeDuration }})</span>
+  <span class="hidden text-sm sm:inline">({{ [w.startDate, w.endDate] | duration }})</span>
 </p>
 
 <div [innerHTML]="w.content"></div>

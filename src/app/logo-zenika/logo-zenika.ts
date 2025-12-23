@@ -10,5 +10,5 @@ import { Component, input, ViewEncapsulation } from '@angular/core';
   encapsulation: ViewEncapsulation.None,
 })
 export class LogoZenika {
-  size = input(24);
+  readonly size = input(24);
 }

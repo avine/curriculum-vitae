@@ -1,4 +1,4 @@
-import { ResumeSkill } from './resume-skill-types';
+import { ResumeSkill } from './skill-types';
 
 export const LEVEL_LABEL_MAP: Record<Required<ResumeSkill>['level'], string> = {
   Beginner: 'Débutant',

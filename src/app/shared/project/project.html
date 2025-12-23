@@ -1,0 +1,9 @@
+@let p = project();
+
+<h3 class="text-primary mb-1">{{ p.name }}</h3>
+
+@if (p.description) {
+  <div class="mb-1 text-neutral-500">{{ p.description }}</div>
+}
+
+<a [href]="p.url" target="_blank">{{ p.url }}</a>

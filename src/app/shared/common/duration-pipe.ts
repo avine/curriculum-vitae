@@ -1,9 +1,9 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
-  name: 'resumeDuration',
+  name: 'duration',
 })
-export class ResumeDurationPipe implements PipeTransform {
+export class DurationPipe implements PipeTransform {
   transform([startDate, endDate]: [string, string]): unknown {
     const oneDayMs = 86_400_000;
 
