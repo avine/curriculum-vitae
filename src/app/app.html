@@ -41,7 +41,8 @@
     @for (work of works; track $index) {
       <app-work
         [work]="work"
-        class="mx-auto block max-w-4xl break-inside-avoid pt-6 pb-3"
+        class="mx-auto block max-w-4xl break-inside-avoid pt-6"
+        [class.pb-3]="!$last"
         [class.border-b]="!$last"
         [class.border-neutral-300]="!$last"
         role="article"
