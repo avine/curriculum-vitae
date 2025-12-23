@@ -1,14 +1,9 @@
 <header class="border-t-primary border-t-5">
-  <div class="absolute print:hidden">
-    <a
-      href="cv-stephane-francel.pdf"
-      download
-      class="inline-flex items-center gap-1 p-1 text-neutral-400"
-      style="text-decoration: none"
-    >
-      <span class="material-symbols-outlined text-xl!">download</span>
-      Télécharger
-    </a>
+  <div class="absolute w-full print:hidden">
+    <app-download
+      url="cv-stephane-francel.pdf"
+      class="m-auto block max-w-4xl text-center sm:text-left"
+    />
   </div>
 
   <app-basics class="mt-12 block" [basics]="basics" />
