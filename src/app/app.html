@@ -23,11 +23,13 @@
 
   <app-section heading="Entreprises" icon="business_center">
     <div
-      class="mt-6 gap-12 text-neutral-500 sm:columns-2 md:columns-3"
+      class="mt-6 gap-12 sm:columns-2 md:columns-3"
       style="column-rule: 1px solid var(--color-neutral-200)"
     >
       @for (company of companies; track $index) {
-        <strong class="mb-4 block">{{ company }}</strong>
+        <div class="mb-4">
+          <a [href]="`#exp-${$index + 1}`">{{ $index + 1 }}. {{ company }}</a>
+        </div>
       }
     </div>
   </app-section>
@@ -35,6 +37,8 @@
   <app-section heading="Expérience" icon="beenhere" class="break-before-page">
     @for (work of works; track $index) {
       <app-work
+        [id]="`exp-${$index + 1}`"
+        [index]="$index + 1"
         [work]="work"
         class="mx-auto block max-w-4xl break-inside-avoid pt-6"
         [class.pb-3]="!$last"

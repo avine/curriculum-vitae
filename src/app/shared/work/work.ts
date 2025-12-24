@@ -8,5 +8,7 @@ import { ResumeWork } from './work-types';
   templateUrl: './work.html',
 })
 export class Work {
+  readonly index = input.required<number | number>();
+
   readonly work = input.required<ResumeWork>();
 }

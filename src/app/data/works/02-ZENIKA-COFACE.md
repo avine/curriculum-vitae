@@ -11,4 +11,4 @@ Leader mondial de l'assurance-crédit en transformation digitale majeure du SI p
 - Intégration dans une application pilote
 - Formation des développeurs + documentation technique
 
-**Stack:** Angular 16-17, NgRx, Ngx-Translate, PrimeNG, Nx
+**Stack :** Angular 16-17, NgRx, Ngx-Translate, PrimeNG, Nx

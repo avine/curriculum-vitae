@@ -11,4 +11,4 @@ Leader mondial de la nutrition pour animaux de compagnie avec écosystème de 12
 - Intégration Okta CIAM (Customer Identity and Access Management)
 - Architecture full-stack : Front-end Angular + Back-end NestJS (BFF) + CI/CD Azure DevOps
 
-**Stack:** Angular 9-10, NestJS, Okta, Azure Cloud
+**Stack :** Angular 9-10, NestJS, Okta, Azure Cloud

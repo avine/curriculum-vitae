@@ -12,4 +12,4 @@ ESN spécialisée dans la transformation numérique renforçant sa culture du fe
 - Outil intégré au processus d'évaluation annuelle : 800+ utilisateurs, 2000+ feedbacks/an
 - Mainteneur actuel de l'application : monitoring, corrections, évolutions
 
-**Stack:** Angular 16-20, Angular Material, Localize (i18n), ECharts, NestJS, Firebase, GCP, Docusaurus
+**Stack :** Angular 16-20, Angular Material, Localize (i18n), ECharts, NestJS, Firebase, GCP, Docusaurus

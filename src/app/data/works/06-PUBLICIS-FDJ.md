@@ -11,7 +11,7 @@ endDate: 2021-09
 - Migration vers Monorepo Nx : consolidation des 3 applications (réécriture coquille PHP en Angular)
 - Implémentation SSR (Server-Side Rendering)
 
-**Stack:** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
+**Stack :** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
 
 **Équipe :** 3 développeurs + Kanban
 

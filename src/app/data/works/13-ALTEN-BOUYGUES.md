@@ -11,6 +11,6 @@ Opérateur télécom offrant à ses clients un portail mobile grand public avec 
 - Refonte du Store d'applications
 - Amélioration du module de paiement sur mobile
 
-**Stack:** outil propriétaire
+**Stack :** outil propriétaire
 
-**Agilité:** contact direct avec l'équipe marketing
+**Équipe :** contact direct avec l'équipe marketing

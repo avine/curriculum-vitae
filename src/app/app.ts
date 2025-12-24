@@ -21,7 +21,7 @@ export class App {
     parseMarkdown<Omit<ResumeWork, 'content'>>,
   ).map(({ metadata, content }) => ({ ...metadata, content }));
 
-  protected companies = Array.from(new Set(this.works.map(({ company }) => company)));
+  protected companies = this.works.map(({ company }) => company);
 
   protected projects = PROJECTS;
 }
