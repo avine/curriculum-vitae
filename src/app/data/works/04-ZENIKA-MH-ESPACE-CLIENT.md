@@ -13,4 +13,4 @@ Acteur majeur de la protection sociale en France avec Espace client web comme ca
 
 **Stack:** Angular 14-15, Bootstrap, Storybook, Jest
 
-**Agilité :** 4 développeurs + Scrum
+**Équipe :** 4 développeurs + Scrum

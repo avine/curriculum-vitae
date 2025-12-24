@@ -13,4 +13,4 @@ Banque d'investissement en digitalisation du marché obligataire (MiFID II), his
 
 **Stack:** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
 
-**Agilité :** 4 développeurs + Kanban
+**Équipe :** 4 développeurs + Kanban

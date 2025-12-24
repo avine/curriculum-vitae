@@ -62,7 +62,7 @@ Acteur majeur de la protection sociale en France avec Espace client web comme ca
 
 **Stack:** Angular 14-15, Bootstrap, Storybook, Jest
 
-**Agilit\xE9 :** 4 d\xE9veloppeurs + Scrum
+**\xC9quipe :** 4 d\xE9veloppeurs + Scrum
 `;var Cg=`---
 position: D\xE9veloppeur Full-stack \u2013 Indice de Performance Sociale
 company: Malakoff Humanis
@@ -78,7 +78,7 @@ Acteur majeur de la protection sociale d\xE9veloppant une offre d'accompagnement
 
 **Stack:** Angular 13, Express.js, MongoDB (Mongoose), API Rest, Jest
 
-**Agilit\xE9 :** 3 d\xE9veloppeurs + Scrum
+**\xC9quipe :** 3 d\xE9veloppeurs + Scrum
 `;var Sg=`---
 position: Lead technique Full-stack \u2013 Migration Monorepo & SSR
 company: FDJ
@@ -94,7 +94,7 @@ endDate: 2021-09
 
 **Stack:** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
 
-**Agilit\xE9 :** 3 d\xE9veloppeurs + Kanban
+**\xC9quipe :** 3 d\xE9veloppeurs + Kanban
 
 **Mobilit\xE9 :** mission suivie d'un changement d'ESN (Xebia \u2192 Zenika)
 `;var Mg=`---
@@ -129,7 +129,7 @@ Banque de d\xE9tail en refonte digitale compl\xE8te de sa pr\xE9sence web pour m
 
 **Stack:** Angular 8, NestJS, Jest, Leaflet, Prismic
 
-**Agilit\xE9 :** 6 d\xE9veloppeurs + Scrum
+**\xC9quipe :** 6 d\xE9veloppeurs + Scrum
 `;var xg=`---
 position: Lead technique Front-end \u2013 Plateforme de Trading
 company: BNP Paribas
@@ -145,7 +145,7 @@ Banque d'investissement en digitalisation du march\xE9 obligataire (MiFID II), h
 
 **Stack:** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
 
-**Agilit\xE9 :** 4 d\xE9veloppeurs + Kanban
+**\xC9quipe :** 4 d\xE9veloppeurs + Kanban
 `;var Ng=`---
 position: D\xE9veloppeur Front-end \u2013 UI imprimantes industrielles
 company: Canon Production Printing
@@ -161,7 +161,7 @@ Leader mondial de l'impression num\xE9rique industrielle en transformation digit
 
 **Stack:** Angular 4, NgRx, API Rest, WebSocket
 
-**Agilit\xE9 :** 4 d\xE9veloppeurs + Scrum
+**\xC9quipe :** 4 d\xE9veloppeurs + Scrum
 
 **Mobilit\xE9 :** mission suivie d'un changement d'ESN (Alten \u2192 Xebia)
 `;var kg=`---
@@ -178,7 +178,7 @@ Groupe d'assurance international en modernisation de l'espace client web pour am
 - Am\xE9lioration de l'architecture applicative + r\xE9solution de fuites m\xE9moire (memory leaks)
 - Maquettes HTML/CSS pour la refonte du design responsive
 
-**Agilit\xE9 :** 3 d\xE9veloppeurs + Kanban
+**\xC9quipe :** 3 d\xE9veloppeurs + Kanban
 
 **Stack:** JQuery, JavaScript, HTML5, CSS3, Jasmine
 `;var Rg=`---
@@ -195,7 +195,7 @@ Groupe pharmaceutique fran\xE7ais en transformation digitale des outils m\xE9tie
 
 - Contribution au d\xE9veloppement du CRM (4 mois) - dashboard de widgets configurable (agenda, notifications, t\xE2ches)
   - **Stack:** AngularJS, Bootstrap
-  - **Agilit\xE9 :** 6 d\xE9veloppeurs + Scrum
+  - **\xC9quipe :** 6 d\xE9veloppeurs + Scrum
 `;var Ag=`---
 position: Administrateur \u2013 Portail mobile grand public
 company: Bouygues Telecom

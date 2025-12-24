@@ -13,6 +13,6 @@ Leader mondial de l'impression numérique industrielle en transformation digital
 
 **Stack:** Angular 4, NgRx, API Rest, WebSocket
 
-**Agilité :** 4 développeurs + Scrum
+**Équipe :** 4 développeurs + Scrum
 
 **Mobilité :** mission suivie d'un changement d'ESN (Alten → Xebia)

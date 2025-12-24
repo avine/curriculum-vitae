@@ -13,6 +13,6 @@ endDate: 2021-09
 
 **Stack:** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
 
-**Agilité :** 3 développeurs + Kanban
+**Équipe :** 3 développeurs + Kanban
 
 **Mobilité :** mission suivie d'un changement d'ESN (Xebia → Zenika)

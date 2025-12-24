@@ -16,4 +16,4 @@ Banque de détail en refonte digitale complète de sa présence web pour moderni
 
 **Stack:** Angular 8, NestJS, Jest, Leaflet, Prismic
 
-**Agilité :** 6 développeurs + Scrum
+**Équipe :** 6 développeurs + Scrum

@@ -13,4 +13,4 @@ Acteur majeur de la protection sociale développant une offre d'accompagnement d
 
 **Stack:** Angular 13, Express.js, MongoDB (Mongoose), API Rest, Jest
 
-**Agilité :** 3 développeurs + Scrum
+**Équipe :** 3 développeurs + Scrum

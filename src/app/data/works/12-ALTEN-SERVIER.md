@@ -12,4 +12,4 @@ Groupe pharmaceutique français en transformation digitale des outils métier st
 
 - Contribution au développement du CRM (4 mois) - dashboard de widgets configurable (agenda, notifications, tâches)
   - **Stack:** AngularJS, Bootstrap
-  - **Agilité :** 6 développeurs + Scrum
+  - **Équipe :** 6 développeurs + Scrum
