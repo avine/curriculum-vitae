@@ -1,16 +1,16 @@
-import work_01 from './01-BNP-PARISBAS.md' with { loader: 'text' };
+import work_01 from './01-ZENIKA-BNP.md' with { loader: 'text' };
 import work_02 from './02-ZENIKA-COFACE.md' with { loader: 'text' };
 import work_03 from './03-ZENIKA-FEEDBACK.md' with { loader: 'text' };
-import work_04 from './04-MALAKOFF-HUMANIS-CLIENT.md' with { loader: 'text' };
-import work_05 from './05-MALAKOFF-HUMANIS-IPS.md' with { loader: 'text' };
+import work_04 from './04-ZENIKA-MH-ESPACE-CLIENT.md' with { loader: 'text' };
+import work_05 from './05-ZENIKA-MH-IPS.md' with { loader: 'text' };
 import work_06 from './06-PUBLICIS-FDJ.md' with { loader: 'text' };
 import work_07 from './07-PUBLICIS-ROYAL-CANIN.md' with { loader: 'text' };
 import work_08 from './08-PUBLICIS-LCL.md' with { loader: 'text' };
-import work_09 from './09-XEBIA-BNP-ASSET-MANAGEMENT.md' with { loader: 'text' };
+import work_09 from './09-XEBIA-BNP.md' with { loader: 'text' };
 import work_10 from './10-ALTEN-OCE.md' with { loader: 'text' };
 import work_11 from './11-ALTEN-AXA.md' with { loader: 'text' };
 import work_12 from './12-ALTEN-SERVIER.md' with { loader: 'text' };
-import work_13 from './13-BOUYGUES-TELECOM.md' with { loader: 'text' };
+import work_13 from './13-ALTEN-BOUYGUES.md' with { loader: 'text' };
 //import work_14 from './14-FSJU.md' with { loader: 'text' };
 
 export const WORK_MARKDOWNS = [

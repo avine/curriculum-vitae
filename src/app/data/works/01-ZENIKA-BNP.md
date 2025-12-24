@@ -5,9 +5,9 @@ startDate: 2024-07
 endDate: 2025-11
 ---
 
-Le Design System, utilisé par 20+ applications, souffrait d'une dette technique critique (architecture monolithique, coûts de maintenance élevés, frustration des développeurs).
+Design System utilisé par 20+ applications avec dette technique critique (architecture monolithique, coûts de maintenance élevés, frustration des développeurs).
 
-- Conception et développement from scratch : librairie Angular + application de démo interactive + starter kit
+- Conception et développement : librairie Angular + application de démo interactive + starter kit
 - Implémentation de 25+ composants conformes UI/UX (Layout, Menus, Card, Data-grid, Prompt, ...)
 - Conformité accessibilité RGAA + intégration Axe-Core (feedback immédiat)
 - Migration de 2 applications pilotes + formation de 2+ Tech Leads + documentation technique

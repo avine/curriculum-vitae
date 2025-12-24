@@ -5,11 +5,11 @@ startDate: 2018-01
 endDate: 2019-06
 ---
 
-L'entité Asset Management engage la digitalisation du marché obligataire (MiFID II), historiquement traité de gré à gré et peu transparent.
+Banque d'investissement en digitalisation du marché obligataire (MiFID II), historiquement traité de gré à gré et peu transparent.
 
-- Conception et développement, revues de code, mentoring
+- Conception et développement, revues de code, accompagnement technique
 - Dashboards temps réel d'analyse de marché
-- Animation Katas techniques et BBL sur les bonnes pratiques Angular/NgRx
+- Animation de Katas techniques et Brown Bag Lunch (BBL) sur les bonnes pratiques Angular/NgRx
 
 **Stack:** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
 

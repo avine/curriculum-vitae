@@ -5,7 +5,7 @@ startDate: 2011-10
 endDate: 2013-06
 ---
 
-Opérateur télécom, offre à ses clients un portail mobile grand public, d'un million de visiteurs par mois.
+Opérateur télécom offrant à ses clients un portail mobile grand public avec un million de visiteurs par mois.
 
 - Création de nouveaux contenus
 - Refonte du Store d'applications
@@ -13,4 +13,4 @@ Opérateur télécom, offre à ses clients un portail mobile grand public, d'un 
 
 **Stack:** outil propriétaire
 
-**Agilité:** contact direct avec le market
+**Agilité:** contact direct avec l'équipe marketing

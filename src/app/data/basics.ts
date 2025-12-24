@@ -11,8 +11,8 @@ export const BASICS: ResumeBasics = {
   },
   summary: [
     "Je m'investis à fond dans les projets, cherchant à réellement comprendre les objectifs, être force de proposition et dépasser les attentes clients.",
-    'Mes mots clés ? Elégance du code, architectures bien conçues et solutions pérennes.',
-    "Ma devise ? “Ce n'est pas parce que le code marche, que le projet avance…”.",
-    "Le travail en équipe et le partage des connaissances m'apportent une réelle satisfaction. Je sais également travailler en autonomie sans faire de concessions sur la qualité.",
+    'Mes priorités ? Élégance du code, architectures bien conçues et solutions pérennes.',
+    "Ma devise ? « Ce n'est pas parce que le code marche, que le projet avance… ».",
+    "Le travail en équipe et le partage des connaissances m'apportent une véritable satisfaction. Je sais également travailler en autonomie sans faire de concessions sur la qualité.",
   ],
 };

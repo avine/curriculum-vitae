@@ -5,7 +5,7 @@ startDate: 2016-11
 endDate: 2017-08
 ---
 
-Groupe d'assurance international, entreprend la modernisation de son espace client web pour améliorer l'expérience utilisateur et la performance technique.
+Groupe d'assurance international en modernisation de l'espace client web pour améliorer l'expérience utilisateur et la performance technique.
 
 - Gestion du profil utilisateur
 - Maintenance corrective et évolutive

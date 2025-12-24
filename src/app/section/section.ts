@@ -8,7 +8,7 @@ import { Component, input } from '@angular/core';
   templateUrl: './section.html',
 })
 export class Section {
-  readonly title = input.required<string>();
+  readonly heading = input.required<string>();
 
   readonly icon = input.required<string>();
 }
