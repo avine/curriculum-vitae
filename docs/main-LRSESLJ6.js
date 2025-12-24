@@ -17,7 +17,7 @@ Design System utilis\xE9 par 20+ applications avec dette technique critique (arc
 - Migration de 2 applications pilotes + formation de 2+ Tech Leads + documentation technique
 - Am\xE9lioration productivit\xE9 d\xE9veloppeurs + r\xE9duction du time-to-market des fonctionnalit\xE9s m\xE9tier
 
-**Stack :** Angular 18-20, Angular Material, Localize (i18n), Axe-Core (a11y), Jest
+**Stack :** Angular 18-20 \xB7 Angular Material \xB7 Localize (i18n) \xB7 Axe-Core (a11y) \xB7 Jest
 `;var Sg=`---
 position: Architecte logiciel Front-end \u2013 Refonte SI Assurance
 company: Coface
@@ -31,7 +31,7 @@ Leader mondial de l'assurance-cr\xE9dit en transformation digitale majeure du SI
 - Int\xE9gration dans une application pilote
 - Formation des d\xE9veloppeurs + documentation technique
 
-**Stack :** Angular 16-17, NgRx, Ngx-Translate, PrimeNG, Nx
+**Stack :** Angular 16-17 \xB7 NgRx \xB7 Ngx-Translate \xB7 PrimeNG \xB7 Nx
 `;var Mg=`---
 position: Architecte logiciel Full-stack \u2013 Plateforme de feedback 360\xB0
 company: Zenika
@@ -46,7 +46,7 @@ ESN sp\xE9cialis\xE9e dans la transformation num\xE9rique renfor\xE7ant sa cultu
 - Outil int\xE9gr\xE9 au processus d'\xE9valuation annuelle : 800+ utilisateurs, 2000+ feedbacks/an
 - Mainteneur actuel de l'application : monitoring, corrections, \xE9volutions
 
-**Stack :** Angular 16-20, Angular Material, Localize (i18n), ECharts, NestJS, Firebase, GCP, Docusaurus
+**Stack :** Angular 16-20 \xB7 Angular Material \xB7 Localize (i18n) \xB7 ECharts \xB7 NestJS \xB7 Firebase \xB7 GCP \xB7 Docusaurus
 `;var _g=`---
 position: D\xE9veloppeur Front-end & R\xE9f\xE9rent technique \u2013 Espace client
 company: Malakoff Humanis
@@ -60,7 +60,7 @@ Acteur majeur de la protection sociale en France avec Espace client web comme ca
 - R\xE9f\xE9rent technique : accompagnement d\xE9veloppeurs, code reviews, mont\xE9e en comp\xE9tences
 - Contribution au Design System : d\xE9veloppement de 2 composants critiques (layout, module de formulaires multi-step) + maintenance \xE9volutive
 
-**Stack :** Angular 14-15, Bootstrap, Storybook, Jest
+**Stack :** Angular 14-15 \xB7 Bootstrap \xB7 Storybook \xB7 Jest
 
 **\xC9quipe :** 4 d\xE9veloppeurs + Scrum
 `;var xg=`---
@@ -76,7 +76,7 @@ Acteur majeur de la protection sociale d\xE9veloppant une offre d'accompagnement
 - Questionnaires complexes (40+ questions, multi-step), algorithme de scoring, visualisation de donn\xE9es (charts et radars)
 - Benchmarking sectoriel : 15+ secteurs d'activit\xE9, 4 tranches de taille d'entreprise, base de 500+ entreprises anonymis\xE9es
 
-**Stack :** Angular 13, Express.js, MongoDB, API Rest, Jest
+**Stack :** Angular 13 \xB7 Express.js \xB7 MongoDB \xB7 API Rest \xB7 Jest
 
 **\xC9quipe :** 3 d\xE9veloppeurs + Scrum
 `;var Ng=`---
@@ -92,7 +92,7 @@ endDate: 2021-09
 - Migration vers Monorepo Nx : consolidation des 3 applications (r\xE9\xE9criture coquille PHP en Angular)
 - Impl\xE9mentation SSR (Server-Side Rendering)
 
-**Stack :** Angular 11-12, Angular Universal (SSR), Express.js, Nx, Jest
+**Stack :** Angular 11-12 \xB7 Angular Universal (SSR) \xB7 Express.js \xB7 Nx \xB7 Jest
 
 **\xC9quipe :** 3 d\xE9veloppeurs + Kanban
 
@@ -110,7 +110,7 @@ Leader mondial de la nutrition pour animaux de compagnie avec \xE9cosyst\xE8me d
 - Int\xE9gration Okta CIAM (Customer Identity and Access Management)
 - Architecture full-stack : Front-end Angular + Back-end NestJS (BFF) + CI/CD Azure DevOps
 
-**Stack :** Angular 9-10, NestJS, Okta, Azure Cloud
+**Stack :** Angular 9-10 \xB7 NestJS \xB7 Okta \xB7 Azure Cloud
 `;var Rg=`---
 position: D\xE9veloppeur Full-stack \u2013 Refonte Site Vitrine & Espace Client
 company: LCL
@@ -127,7 +127,7 @@ Banque de d\xE9tail en refonte digitale compl\xE8te de sa pr\xE9sence web pour m
 - **Espace client**
   - Mire de connexion Espace Client
 
-**Stack :** Angular 8, NestJS, Jest, Leaflet, Prismic
+**Stack :** Angular 8 \xB7 NestJS \xB7 Jest \xB7 Leaflet \xB7 Prismic
 
 **\xC9quipe :** 6 d\xE9veloppeurs + Scrum
 `;var Ag=`---
@@ -143,7 +143,7 @@ Banque d'investissement en digitalisation du march\xE9 obligataire (MiFID II), h
 - Dashboards temps r\xE9el d'analyse de march\xE9
 - Animation de Katas techniques et Brown Bag Lunch (BBL) sur les bonnes pratiques Angular/NgRx
 
-**Stack :** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
+**Stack :** Angular 5-6-7 \xB7 NgRx \xB7 Highcharts \xB7 ag-Grid \xB7 DevExtreme \xB7 SSE (Server-Side Events)
 
 **\xC9quipe :** 4 d\xE9veloppeurs + Kanban
 `;var Og=`---
@@ -159,7 +159,7 @@ Leader mondial de l'impression num\xE9rique industrielle en transformation digit
 - API Rest : cr\xE9ation de jobs, modification de param\xE8tres
 - WebSocket : statut imprimante, progression des jobs, alertes
 
-**Stack :** Angular 4, NgRx, API Rest, WebSocket
+**Stack :** Angular 4 \xB7 NgRx \xB7 API Rest \xB7 WebSocket
 
 **\xC9quipe :** 4 d\xE9veloppeurs + Scrum
 
@@ -178,7 +178,7 @@ Groupe d'assurance international en modernisation de l'espace client web pour am
 - Am\xE9lioration de l'architecture applicative + r\xE9solution de fuites m\xE9moire (memory leaks)
 - Maquettes HTML/CSS pour la refonte du design responsive
 
-**Stack :** JQuery, JavaScript, HTML5, CSS3, Jasmine
+**Stack :** JQuery \xB7 JavaScript \xB7 HTML5 \xB7 CSS3 \xB7 Jasmine
 
 **\xC9quipe :** 3 d\xE9veloppeurs + Kanban
 `;var Lg=`---
@@ -191,10 +191,10 @@ endDate: 2016-09
 Groupe pharmaceutique fran\xE7ais en transformation digitale des outils m\xE9tier strat\xE9giques : BI (Business Intelligence) et CRM pour les managers et les visiteurs m\xE9dicaux.
 
 - Conception et r\xE9alisation en autonomie d'une application de BI - visualisation de donn\xE9es (\xE9volution des ventes par r\xE9gion/produit/p\xE9riode)
-  - **Stack :** JavaScript, JQuery, AmCharts, ASP.NET MVC, SQL Server
+  - **Stack :** JavaScript \xB7 JQuery \xB7 AmCharts \xB7 ASP.NET MVC \xB7 SQL Server
 
 - Contribution au d\xE9veloppement du CRM (4 mois) - dashboard de widgets configurable (agenda, notifications, t\xE2ches)
-  - **Stack :** AngularJS, Bootstrap
+  - **Stack :** AngularJS \xB7 Bootstrap
   - **\xC9quipe :** 6 d\xE9veloppeurs + Scrum
 `;var Fg=`---
 position: Administrateur \u2013 Portail mobile grand public

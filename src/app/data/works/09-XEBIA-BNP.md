@@ -11,6 +11,6 @@ Banque d'investissement en digitalisation du marché obligataire (MiFID II), his
 - Dashboards temps réel d'analyse de marché
 - Animation de Katas techniques et Brown Bag Lunch (BBL) sur les bonnes pratiques Angular/NgRx
 
-**Stack :** Angular 5-6-7, NgRx, Highcharts, ag-Grid, DevExtreme, SSE (Server-Side Events)
+**Stack :** Angular 5-6-7 · NgRx · Highcharts · ag-Grid · DevExtreme · SSE (Server-Side Events)
 
 **Équipe :** 4 développeurs + Kanban

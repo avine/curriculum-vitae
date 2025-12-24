@@ -14,6 +14,6 @@ Banque de détail en refonte digitale complète de sa présence web pour moderni
 - **Espace client**
   - Mire de connexion Espace Client
 
-**Stack :** Angular 8, NestJS, Jest, Leaflet, Prismic
+**Stack :** Angular 8 · NestJS · Jest · Leaflet · Prismic
 
 **Équipe :** 6 développeurs + Scrum

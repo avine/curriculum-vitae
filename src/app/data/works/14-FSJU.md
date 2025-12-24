@@ -9,6 +9,6 @@ Organisme de collecte des fonds, a besoin de sites vitrine, d'extranets et d'une
 
 - Conception et développement from scratch d'un CMS (Content Managing System)
 - Gestionnaires d'utilisateurs, menus, contenus, templating, newsletters, ...
-- Développement d'un module de don en ligne avec génération automatique de CERFA.
+- Développement d'un module de don en ligne avec génération automatique de CERFA
 
-**Stack :** PHP, MySQL, HTML/CSS/JavaScript, JQuery, VAD (Sogenactif)
+**Stack :** PHP · MySQL · HTML/CSS/JavaScript · JQuery · VAD (Sogenactif)
