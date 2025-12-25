@@ -11,6 +11,6 @@ Acteur majeur de la protection sociale développant une offre d'accompagnement d
 - Questionnaires complexes (40+ questions, multi-step), algorithme de scoring, visualisation de données (charts et radars)
 - Benchmarking sectoriel : 15+ secteurs d'activité, 4 tranches de taille d'entreprise, base de 500+ entreprises anonymisées
 
-**Stack :** Angular 13 · Express.js · MongoDB · API Rest · Jest
+**Stack :** Angular 13 ∙ Express.js ∙ MongoDB ∙ API Rest ∙ Jest
 
 **Équipe :** 3 développeurs + Scrum

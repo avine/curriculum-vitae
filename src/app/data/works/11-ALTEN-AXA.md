@@ -12,6 +12,6 @@ Groupe d'assurance international en modernisation de l'espace client web pour am
 - Amélioration de l'architecture applicative + résolution de fuites mémoire (memory leaks)
 - Maquettes HTML/CSS pour la refonte du design responsive
 
-**Stack :** JQuery · JavaScript · HTML5 · CSS3 · Jasmine
+**Stack :** JQuery ∙ JavaScript ∙ HTML5 ∙ CSS3 ∙ Jasmine
 
 **Équipe :** 3 développeurs + Kanban

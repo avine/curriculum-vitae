@@ -11,7 +11,7 @@ Leader mondial de l'impression numérique industrielle en transformation digital
 - API Rest : création de jobs, modification de paramètres
 - WebSocket : statut imprimante, progression des jobs, alertes
 
-**Stack :** Angular 4 · NgRx · API Rest · WebSocket
+**Stack :** Angular 4 ∙ NgRx ∙ API Rest ∙ WebSocket
 
 **Équipe :** 4 développeurs + Scrum
 

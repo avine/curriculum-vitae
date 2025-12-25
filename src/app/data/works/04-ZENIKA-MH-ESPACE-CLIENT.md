@@ -11,6 +11,6 @@ Acteur majeur de la protection sociale en France avec Espace client web comme ca
 - Référent technique : accompagnement développeurs, code reviews, montée en compétences
 - Contribution au Design System : développement de 2 composants critiques (layout, module de formulaires multi-step) + maintenance évolutive
 
-**Stack :** Angular 14-15 · Bootstrap · Storybook · Jest
+**Stack :** Angular 14-15 ∙ Bootstrap ∙ Storybook ∙ Jest
 
 **Équipe :** 4 développeurs + Scrum

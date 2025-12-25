@@ -13,4 +13,4 @@ Design System utilisé par 20+ applications avec dette technique critique (archi
 - Migration de 2 applications pilotes + formation de 2+ Tech Leads + documentation technique
 - Amélioration productivité développeurs + réduction du time-to-market des fonctionnalités métier
 
-**Stack :** Angular 18-20 · Angular Material · Localize (i18n) · Axe-Core (a11y) · Jest
+**Stack :** Angular 18-20 ∙ Angular Material ∙ Localize (i18n) ∙ Axe-Core (a11y) ∙ Jest
